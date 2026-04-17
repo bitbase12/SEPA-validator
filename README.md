@@ -12,3 +12,5 @@ Excel report with two sheets: critical errors / warnings
 
 ## Usage:
 python validador_sepa.py your_archive.xml
+
+## Requirements: pandas, openpyxl
